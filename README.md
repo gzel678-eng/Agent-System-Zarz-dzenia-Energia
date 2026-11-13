@@ -1,1 +1,1 @@
-# Agent-System-Zarz-dzenia-Energia
+# Agent-System-Zarządzenia-Energia
